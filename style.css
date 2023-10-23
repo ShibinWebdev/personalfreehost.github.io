@@ -1,0 +1,10 @@
+/* Making default settings to 0 */
+#body {
+    margin: 0;
+}
+
+/* Row */
+.row h2{
+    color: white;
+    padding-left: 20px;
+}
